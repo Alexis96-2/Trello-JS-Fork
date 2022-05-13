@@ -1,0 +1,23 @@
+{
+  "name": "trello-js-fork",
+  "version": "1.0.0",
+  "description": "Practica 7 de la semana 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexis96-2/Trello-JS-Fork.git"
+  },
+  "author": "Alexis96-2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexis96-2/Trello-JS-Fork/issues"
+  },
+  "homepage": "https://github.com/Alexis96-2/Trello-JS-Fork#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "trello": "^0.11.0"
+  }
+}
